@@ -12,8 +12,8 @@ are in git, red that are not in git (i.e. not saved)
 
 "git log" - to see all commits. To finish wathing log press "q".
 
-
-test 3 whether I can use vs code to write a comment
-
-
-Test 3 can I just write commit message without  "git add"
+Plan
+1. cd in a right directory
+2. git init (if you havent already)
+3. "git add file_name" for saving new/saving for the 1st time
+4. "git commit -m "your message"
