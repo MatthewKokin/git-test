@@ -14,7 +14,10 @@ are in git, red that are not in git (i.e. not saved)
 "git log" - to see all commits. To finish wathing log press "q".
 
 "git diff" - to see a difference between the last version on git and the saved version not on git
-"git checkout" - rolling the file to the last git version 
+
+---------------------------------------------------------------------------
+"git checkout file_name" - rolling the file to the last git version if u saved the file but not to git 
+---------------------------------------------------------------------------
 
 Plan
 1. cd in a right directory
