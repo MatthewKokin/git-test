@@ -7,10 +7,13 @@ will have a hidden "git" folder that you will be able to see with "ls -a"
 are in git, red that are not in git (i.e. not saved)
 
 "git add file_name" - you added your file to a git. But dont for get to write a commit message
+"git add ." - adding all files from the directory
 
 "git commit -m "your message"
 
 "git log" - to see all commits. To finish wathing log press "q".
+
+"git diff" - to see a difference between the last version on git and the saved version not on git
 
 Plan
 1. cd in a right directory
