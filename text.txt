@@ -1,1 +1,13 @@
 Test 1
+
+"git init" - initialise git in the folder, from now on you can use git and you 
+will have a hidden "git" folder that you will be able to see with "ls -a"
+
+"git status" - will show a list of all files in the directory. Green will be the ones that 
+are in git, red that are not in git (i.e. not saved)
+
+"git add file_name" - you added your file to a git. But dont for get to write a commit message
+
+"git commit -m "your message"
+
+"git log" - to see all commits
