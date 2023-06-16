@@ -24,3 +24,10 @@ Plan
 2. git init (if you havent already)
 3. "git add file_name" for saving new/saving for the 1st time
 4. "git commit -m "your message"
+
+
+-----------------------------------------GitHub----------------------------------
+PUSHING YOUR CHANGE HISTORY TO GitHub
+
+1. Create a reository on GitHub through the web!!!
+2. Copy a link from there and paste to the terminal 
