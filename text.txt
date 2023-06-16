@@ -10,7 +10,7 @@ are in git, red that are not in git (i.e. not saved)
 
 "git commit -m "your message"
 
-"git log" - to see all commits
+"git log" - to see all commits. To finish wathing log press "q".
 
 
 test 3 whether I can use vs code to write a comment
