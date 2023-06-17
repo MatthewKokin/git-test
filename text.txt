@@ -51,6 +51,10 @@ e.g.
 "git branch name" - create a new branch
 "git branch" - shows at which branch are you
 "git checkout branch_you_wanna_go" - to transfer between branches
+"git merge branch_you_wanna_merge_with_main" - merging the minor branch with major
+"git push origin master -u" - push git to github
+
+
 -----------------------------------------Pull requests, mergin reposotories----------------------------------
 
 
