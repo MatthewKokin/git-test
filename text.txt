@@ -58,8 +58,12 @@ E.G. ig I want to merge 'test' to "main" I must be on main
 "git push origin main -u" - push git "main branch" to github
 
 
------------------------------------------Pull requests, mergin reposotories----------------------------------
+-----------------------------------------Pull requests, forking----------------------------------
+"fork on github" - you are creating a copy of someones repository to your github
+this is not "git clone" after which you have an access to push changes
 
+With forking you copy a repository, change it on your machine and then do a pull requests
+that an original author needs to accept.
 
 
 -----------------------------------------GitHub----------------------------------
