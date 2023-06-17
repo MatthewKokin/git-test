@@ -15,6 +15,8 @@ are in git, red that are not in git (i.e. not saved)
 
 "git diff" - to see a difference between the last version on git and the saved version not on git
 
+"git rm --cached -r ." - removes everything from the staging area (files to which you did "git add", but didnt write a message)
+
 ---------------------------------------------------------------------------
 "git checkout file_name" - rolling the file to the last git version if u saved the file but not to git 
 ---------------------------------------------------------------------------
@@ -26,8 +28,37 @@ Plan
 4. "git commit -m "your message"
 
 
+
+-----------------------------------------.gitignore-----------------------------------------
+Plan
+1. "touch .gitignore" - create .gitignore (note it is invisible)
+2. "open .gitignore" - open it
+3. Write all files you dont want to git
+
+e.g. 
+---------------------------------------------
+|.DS_Store                                   |
+|secrets.txt                                 |
+|*.txt (ignores all files with txt extesion) |
+---------------------------------------------
+
+
+-----------------------------------------Gitclone----------------------------------
+"git clone url_from_github_of_the_project" - this will download all files from the projcet
+
+
+-----------------------------------------Branching and Merging----------------------------------
+"git branch name" - create a new branch
+"git branch" - shows at which branch are you
+"git checkout branch_you_wanna_go" - to transfer between branches
+-----------------------------------------Pull requests, mergin reposotories----------------------------------
+
+
+
 -----------------------------------------GitHub----------------------------------
 PUSHING YOUR CHANGE HISTORY TO GitHub
 
 1. Create a reository on GitHub through the web!!!
-2. Copy a link from there and paste to the terminal 
+2. Copy a link from there and paste to the terminal  
+
+
