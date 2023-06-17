@@ -52,6 +52,9 @@ e.g.
 "git branch" - shows at which branch are you
 "git checkout branch_you_wanna_go" - to transfer between branches
 "git merge branch_you_wanna_merge_with_main" - merging the minor branch with major
+YOU MUST BE ON THE BRANCH TO WHICH YOU WANT TO MERGE A BRANCH
+E.G. ig I want to merge 'test' to "main" I must be on main
+
 "git push origin master -u" - push git to github
 
 
