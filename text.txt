@@ -55,7 +55,7 @@ e.g.
 YOU MUST BE ON THE BRANCH TO WHICH YOU WANT TO MERGE A BRANCH
 E.G. ig I want to merge 'test' to "main" I must be on main
 
-"git push origin master -u" - push git to github
+"git push origin main -u" - push git "main branch" to github
 
 
 -----------------------------------------Pull requests, mergin reposotories----------------------------------
