@@ -73,3 +73,8 @@ PUSHING YOUR CHANGE HISTORY TO GitHub
 2. Copy a link from there and paste to the terminal  
 
 
+
+Testing out creating branches through Github desktop
+
+To open a new repo on git desktop just do File -> Clone repo
+To create a branch click on main and then create a new branch
